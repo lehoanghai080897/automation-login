@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7101ea91-e188-4ece-b934-4d710c858932" name="Default Changelist" comment="" />
+    <list default="true" id="7101ea91-e188-4ece-b934-4d710c858932" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/_output/LG_01Cest.LG_47.fail.html" beforeDir="false" afterPath="$PROJECT_DIR$/tests/_output/LG_01Cest.LG_47.fail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/_output/LG_01Cest.LG_48.fail.html" beforeDir="false" afterPath="$PROJECT_DIR$/tests/_output/LG_01Cest.LG_48.fail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/_output/LG_01Cest.loginoldpass.fail.html" beforeDir="false" afterPath="$PROJECT_DIR$/tests/_output/LG_01Cest.loginoldpass.fail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/_output/failed" beforeDir="false" afterPath="$PROJECT_DIR$/tests/_output/failed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/acceptance/LG_01Cest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/acceptance/LG_01Cest.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,25 +20,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/_support/Step/Acceptance/FirstStep.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="225" column="62" selection-start-line="225" selection-start-column="62" selection-end-line="225" selection-end-column="62" />
+            <state relative-caret-position="199">
+              <caret line="348" column="34" selection-start-line="348" selection-start-column="22" selection-end-line="348" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/acceptance/LG_01Cest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="138" selection-start-line="138" selection-end-line="138" selection-end-column="56" />
+            <state relative-caret-position="522">
+              <caret line="199" column="36" lean-forward="true" selection-start-line="199" selection-start-column="36" selection-end-line="199" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -42,8 +52,8 @@
         <option value="$PROJECT_DIR$/tests/_support/Step/Acceptance/FirsStep.php" />
         <option value="$PROJECT_DIR$/tests/acceptance/FirstCest.php" />
         <option value="$PROJECT_DIR$/tests/_support/Page/Acceptance/FirstPage.php" />
-        <option value="$PROJECT_DIR$/tests/acceptance/LG_01Cest.php" />
         <option value="$PROJECT_DIR$/tests/_support/Step/Acceptance/FirstStep.php" />
+        <option value="$PROJECT_DIR$/tests/acceptance/LG_01Cest.php" />
       </list>
     </option>
   </component>
@@ -129,21 +139,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="automation login" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation login" type="462c0819:PsiDirectoryNode" />
+              <item name="automation-login" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-login" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="automation login" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation login" type="462c0819:PsiDirectoryNode" />
+              <item name="automation-login" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-login" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="automation login" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation login" type="462c0819:PsiDirectoryNode" />
+              <item name="automation-login" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automation-login" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
               <item name="acceptance" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -151,12 +162,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../c giang" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -193,17 +203,18 @@
       <workItem from="1556115646602" duration="1412000" />
       <workItem from="1556152442828" duration="11542000" />
       <workItem from="1556238599815" duration="4287000" />
+      <workItem from="1556263390405" duration="312000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26959000" />
+    <option name="totallyTimeSpent" value="27271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2624161" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19597316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -289,17 +300,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/acceptance/LG_01Cest.php">
+    <entry file="file://$PROJECT_DIR$/tests/_support/Step/Acceptance/FirstStep.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="138" selection-start-line="138" selection-end-line="138" selection-end-column="56" />
+        <state relative-caret-position="199">
+          <caret line="348" column="34" selection-start-line="348" selection-start-column="22" selection-end-line="348" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/_support/Step/Acceptance/FirstStep.php">
+    <entry file="file://$PROJECT_DIR$/tests/acceptance/LG_01Cest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="225" column="62" selection-start-line="225" selection-start-column="62" selection-end-line="225" selection-end-column="62" />
+        <state relative-caret-position="522">
+          <caret line="199" column="36" lean-forward="true" selection-start-line="199" selection-start-column="36" selection-end-line="199" selection-end-column="36" />
         </state>
       </provider>
     </entry>

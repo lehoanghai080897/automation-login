@@ -195,10 +195,10 @@ class LG_01Cest
     /**
      * don't login with old pass
      */
-    public function loginoldpass(Step\Acceptance\FirstStep $I, $scenario)
+    public function LG_53(Step\Acceptance\FirstStep $I, $scenario)
     {
         $I = new number2($scenario);
-        $I->checkmess3('hoanghai.cntt88@gmailcom','123123' );
+        $I->loginoldpass('hoanghai.cntt88@gmail.com','123123' );
     }
 
 }
